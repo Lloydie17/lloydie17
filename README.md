@@ -22,7 +22,7 @@
 
 # ⚡ Fun Fact
 I love watching anime! My favorite anime is Black Clover because I admire Asta's determination to never give up and always surpass his limits. <br/>
-I'm a huge fan of overpowered mc that have great plots. Feel free to recommend some anime to me!
+I'm a huge fan of overpowered mc that have great plots. Feel free to recommend some anime to me! 👌
 
 <!--
 **Lloydie17/lloydie17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
