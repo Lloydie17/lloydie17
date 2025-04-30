@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lloyd!
-👩🏻‍💻 Aspiring web developer.<br/>
+👩🏻‍💻 Aspiring Software Engineer.<br/>
 👨🏻‍🎓 Currently studying [BSIT](https://www.universityofcebu.net/) at the University of Cebu Main Campus.
 
 # 💻 Tech Stack
