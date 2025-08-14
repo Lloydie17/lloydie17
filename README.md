@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lloyd!
-👩🏻‍💻 Aspiring Software Engineer.<br/>
-👨🏻‍🎓 Currently studying [BSIT](https://www.universityofcebu.net/) at the University of Cebu Main Campus.
+👩🏻‍💻 Software Engineer Associate.<br/>
+👨🏻‍🎓 Graduated at [BSIT](https://www.universityofcebu.net/) at the University of Cebu Main Campus.
 
 # 💻 Tech Stack
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
